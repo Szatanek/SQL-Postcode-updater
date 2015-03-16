@@ -1,0 +1,12 @@
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\SQL postcode updater.exe
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\SQL postcode updater.pdb
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\obj\Debug\SQL postcode updater.csprojResolveAssemblyReference.cache
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\obj\Debug\SQL postcode updater.exe
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\obj\Debug\SQL postcode updater.pdb
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\LinqToExcel.dll
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\log4net.dll
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\Remotion.dll
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\Remotion.Interfaces.dll
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\LinqToExcel.xml
+C:\Users\mwieczorek\Documents\Visual Studio 2013\Projects\SQL postcode updater\bin\Debug\log4net.xml
